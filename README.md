@@ -1,3 +1,2 @@
 # hello-world
-its bullshit
-hi im here
+an empty repositry
